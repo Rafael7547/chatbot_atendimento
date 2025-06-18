@@ -17,5 +17,5 @@ Um chatbot simples feito em Python para simular um atendimento automatizado. Ide
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/chatbot_atendimento.git
+git clone https://github.com/Rafael7547/chatbot_atendimento.git
 cd chatbot_atendimento
